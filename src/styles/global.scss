@@ -1,0 +1,13 @@
+@use 'reset';
+@use 'variables' as *;
+
+// Base global styles
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  font-size: var(--font-base);
+  line-height: 1.6;
+  background: var(--color-background);
+  color: var(--color-text);
+}
+
+// Add other global styles below

@@ -1,0 +1,42 @@
+{
+  "name": "lost-coin-odyssey",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "author": "@404CashNotFound",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@use-gesture/react": "^10.3.1",
+    "framer-motion": "^12.0.6",
+    "lodash.debounce": "^4.0.8",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^5.4.0",
+    "react-intersection-observer": "^9.15.1",
+    "react-router-dom": "^7.1.5",
+    "sass": "^1.83.4",
+    "use-sound": "^4.0.3"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.17.0",
+    "@types/lodash.debounce": "^4.0.9",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@types/react-icons": "^2.2.7",
+    "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^9.17.0",
+    "eslint-plugin-react": "^7.37.2",
+    "eslint-plugin-react-hooks": "^5.0.0",
+    "eslint-plugin-react-refresh": "^0.4.16",
+    "globals": "^15.14.0",
+    "vite": "^6.0.5",
+    "vite-imagetools": "^7.0.5",
+    "vite-plugin-image-optimizer": "^1.1.8"
+  }
+}

@@ -20,7 +20,7 @@ An immersive storytelling experience built with React, following the journey of 
 
 1. Clone repository
 ```bash
-git clone https://github.com/your-username/lost-coin-odyssey.git
+git clone https://github.com/404CashNotFound/lost-coin-odyssey-react-template.git
 ```
 
 2. Install dependencies

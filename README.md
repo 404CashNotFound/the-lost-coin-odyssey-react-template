@@ -6,6 +6,19 @@ An immersive storytelling experience built with React, following the journey of 
 
 ![Website Preview](public/assets/images/preview.jpg)
 
+## One-Click Deployment
+
+<p align="center">
+  <a href="https://app.netlify.com/start/deploy?repository=https://github.com/404CashNotFound/the-lost-coin-odyssey-react-template">
+    <img src="https://img.shields.io/badge/Deploy%20to-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Deploy to Netlify">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F404CashNotFound%2Fthe-lost-coin-odyssey-react-template">
+    <img src="https://img.shields.io/badge/Deploy%20to-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Deploy to Vercel">
+  </a>
+</p>
+
+
 ## Features
 
 - Parallax scroll effects
